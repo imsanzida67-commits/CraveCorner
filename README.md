@@ -1,4 +1,4 @@
-# New Project
+# CraveCorner
 
 CraveCorner – Restaurant Website
 
